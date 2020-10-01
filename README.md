@@ -128,8 +128,8 @@ Let's start by clining the repos and packaging our Java application with Maven:
 
 ### Clone The Repositories
 ```
-git clone github.com/mohaghighi/covid19-web-application
-git clone github.com/mohaghighi/covid19-UI
+git clone github.com/IBM-Developer-Advocacy-India/covid19-web-application
+git clone github.com/IBM-Developer-Advocacy-India/covid-19-ui
 ```
 ### Package Spring Boot with Maven
 
