@@ -81,18 +81,12 @@ We will be using the data from [COVID-19 Data Repository by the Center for Syste
 
 ## Part 2: Build your Microservice container with Docker.  
 
-<div align="center">
-      <a href="https://youtu.be/WczXDqxjNLQ">
-         <img src="https://github.com/mohaghighi/Covid19-Web-Application/raw/master/images/Labs/Part2-youtube.png">
-      </a>
-</div>
-
 Here's a quick look at what you're going to learn throughout this workshop series - 
 and how Docker fits into our learning jouIn this lab you'll learn about containers, the basics of containerising microservices 
 with Docker, how to run and connect docker containers and best practices for 
 building docker images based on your application services' requirements.  
 
-rney as a prerequisite for diving deep into Kubernetes and openshift.   
+ 
 In this lab, we'll containerise our application's microservices with Docker, and in 
 The next lab, we'll deploy and manage them with Kubernetes. Later we'll use 
 openshift to automate the entire process of containerising, deployment, scaling and 
