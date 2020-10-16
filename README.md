@@ -304,7 +304,7 @@ Go ahead and connect to the parser form the UI app to verify that.
 
 In the next part we will be using minikube to spin up a single node kubernetes cluster. If we build all our images on your host docker machine, it'd be quite difficult to transfer your images from your host into minikube.  
 one solution is to use minikube's docker daemon to build your docker images.  
-> you need to set your environmental parameter to use miinkube docker. This command will let you do that:
+> you need to set your environmental parameter to use minikube docker. This command will let you do that:
 ```
 eval $(minikube docker-env) 
 ```
@@ -386,7 +386,7 @@ eval $(minikube docker-env)
 ![alt text](https://github.com/mohaghighi/Covid19-Web-Application/raw/master/images/Labs/Slide80.png)
 #### Verify you're using minikube's docker by looking up the images
 ```
-docker get images
+docker images
 ```
 ### Useful Commands for Docker
 
