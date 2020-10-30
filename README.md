@@ -925,7 +925,6 @@ oc rollout status deployment/[deployment Name]
 ```
 
 ![alt text](https://github.com/mohaghighi/Covid19-Web-Application/raw/master/images/Labs/Slide141.png)
-
-[ Back to the table of contents ⇪](https://github.com/mohaghighi/Covid19-Web-Application/blob/master/README.md#table-of-contents)  
+ 
 --- 
 
